@@ -41,7 +41,9 @@ at http://jquery.com
 			<div id="topMenu">
 			<h1>VIRTUAL LAB in IMAGE PROCESSING</h1>
 <div class="home">
-<a href="index.php">home</a>
+	<?php
+ echo "<a href='http://cse19-iiith.vlabs.ac.in/Introduction.html?domain=Computer%20Science'>home</a>"; ?>
+
 </div>
 
 			<div class="menu">
